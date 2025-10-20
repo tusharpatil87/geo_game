@@ -1,0 +1,1792 @@
+[
+    {
+        "question": "India is located in the Northern and Eastern Hemispheres.",
+        "answer": true,
+        "category": "Location and Extent"
+    },
+    {
+        "question": "The Himalayas are a major physiographic division of India.",
+        "answer": true,
+        "category": "Physiography and Drainage"
+    },
+    {
+        "question": "The monsoon climate is a significant feature of India's climate.",
+        "answer": true,
+        "category": "Climate"
+    },
+    {
+        "question": "India is known for its rich biodiversity and various forest types.",
+        "answer": true,
+        "category": "Natural Vegetation and Wildlife"
+    },
+    {
+        "question": "India has a very low population density.",
+        "answer": false,
+        "category": "Population"
+    },
+    {
+        "question": "Agriculture is a primary occupation for a large portion of India's population.",
+        "answer": true,
+        "category": "Economy and Occupations"
+    },
+    {
+        "question": "Field visits are important for geographical fieldwork methodology.",
+        "answer": true,
+        "category": "Field Visit"
+    },
+    {
+        "question": "Urbanization is a minor trend in human settlements in India.",
+        "answer": false,
+        "category": "Human Settlements"
+    },
+    {
+        "question": "Tourism infrastructure plays a role in India's development.",
+        "answer": true,
+        "category": "Tourism, Transport and Communication"
+    },
+    {
+        "question": "The Ganges is one of the major river systems in India.",
+        "answer": true,
+        "category": "Physiography and Drainage"
+    },
+    {
+        "question": "Brazil is located entirely in the Southern Hemisphere.",
+        "answer": false,
+        "category": "Location and Extent"
+    },
+    {
+        "question": "The Amazon Rainforest is a significant natural vegetation zone in Brazil.",
+        "answer": true,
+        "category": "Natural Vegetation and Wildlife"
+    },
+    {
+        "question": "The Amazon River is the largest river by discharge volume in the world and flows through Brazil.",
+        "answer": true,
+        "category": "Physiography and Drainage"
+    },
+    {
+        "question": "Brazil experiences a predominantly tropical climate.",
+        "answer": true,
+        "category": "Climate"
+    },
+    {
+        "question": "São Paulo is the most populous city in Brazil.",
+        "answer": true,
+        "category": "Population"
+    },
+    {
+        "question": "Coffee production is a historically important part of Brazil's economy.",
+        "answer": true,
+        "category": "Economy and Occupations"
+    },
+    {
+        "question": "Brazil has a high level of urbanization.",
+        "answer": true,
+        "category": "Human Settlements"
+    },
+    {
+        "question": "Carnival in Rio de Janeiro is a major tourist attraction in Brazil.",
+        "answer": true,
+        "category": "Tourism, Transport and Communication"
+    },
+    {
+        "question": "Field visits are not considered important for geographical fieldwork in Brazil.",
+        "answer": false,
+        "category": "Field Visit"
+    },
+    {
+        "question": "India's latitudinal extent is greater than its longitudinal extent.",
+        "answer": false,
+        "category": "Location and Extent"
+    },
+    {
+        "question": "The Deccan Plateau is a prominent physiographic feature of India.",
+        "answer": true,
+        "category": "Physiography and Drainage"
+    },
+    {
+        "question": "India experiences four distinct seasons due to its monsoon climate.",
+        "answer": true,
+        "category": "Climate"
+    },
+    {
+        "question": "Mangrove forests are found along the coastal regions of India.",
+        "answer": true,
+        "category": "Natural Vegetation and Wildlife"
+    },
+    {
+        "question": "India's population growth rate has been steadily declining in recent decades.",
+        "answer": true,
+        "category": "Population"
+    },
+    {
+        "question": "Rural settlements are more prevalent than urban settlements in India.",
+        "answer": false,
+        "category": "Human Settlements"
+    },
+    {
+        "question": "The service sector contributes significantly to India's GDP.",
+        "answer": true,
+        "category": "Economy and Occupations"
+    },
+    {
+        "question": "India has a well-developed railway network for transport.",
+        "answer": true,
+        "category": "Tourism, Transport and Communication"
+    },
+    {
+        "question": "Brazil shares a border with all South American countries.",
+        "answer": false,
+        "category": "Location and Extent"
+    },
+    {
+        "question": "The Brazilian Highlands are a major landform in Brazil.",
+        "answer": true,
+        "category": "Physiography and Drainage"
+    },
+    {
+        "question": "Brazil's climate is entirely hot and humid throughout the year.",
+        "answer": false,
+        "category": "Climate"
+    },
+    {
+        "question": "The Pantanal is the world's largest tropical wetland and is located primarily in Brazil.",
+        "answer": true,
+        "category": "Natural Vegetation and Wildlife"
+    },
+    {
+        "question": "Brazil has a relatively young population structure.",
+        "answer": true,
+        "category": "Population"
+    },
+    {
+        "question": "Industrialization has played a minor role in Brazil's economic development.",
+        "answer": false,
+        "category": "Economy and Occupations"
+    },
+    {
+        "question": "Favelas are a type of informal settlement found in Brazilian cities.",
+        "answer": true,
+        "category": "Human Settlements"
+    },
+    {
+        "question": "Brazil's extensive coastline is a major draw for tourism.",
+        "answer": true,
+        "category": "Tourism, Transport and Communication"
+    },
+    {
+        "question": "Geographical fieldwork often involves collecting primary data through surveys and observations.",
+        "answer": true,
+        "category": "Field Visit"
+    },
+    {
+        "question": "India's standard meridian passes through Mirzapur.",
+        "answer": true,
+        "category": "Location and Extent"
+    },
+    {
+        "question": "The Western Ghats are an important mountain range along India's western coast.",
+        "answer": true,
+        "category": "Physiography and Drainage"
+    },
+    {
+        "question": "The retreating monsoon brings rainfall to parts of India.",
+        "answer": true,
+        "category": "Climate"
+    },
+    {
+        "question": "Project Tiger is a conservation effort for tigers in India.",
+        "answer": true,
+        "category": "Natural Vegetation and Wildlife"
+    },
+    {
+        "question": "India is the second most populous country in the world.",
+        "answer": true,
+        "category": "Population"
+    },
+    {
+        "question": "Smart Cities Mission is an initiative to promote sustainable urbanization in India.",
+        "answer": true,
+        "category": "Human Settlements"
+    },
+    {
+        "question": "The IT sector is a rapidly growing industry in India.",
+        "answer": true,
+        "category": "Economy and Occupations"
+    },
+    {
+        "question": "India has a vast network of national highways.",
+        "answer": true,
+        "category": "Tourism, Transport and Communication"
+    },
+    {
+        "question": "Brazil's capital city is Rio de Janeiro.",
+        "answer": false,
+        "category": "Location and Extent"
+    },
+    {
+        "question": "The Paraná River is a major river system in southern Brazil.",
+        "answer": true,
+        "category": "Physiography and Drainage"
+    },
+    {
+        "question": "The dry season in Brazil's Amazon region is characterized by heavy rainfall.",
+        "answer": false,
+        "category": "Climate"
+    },
+    {
+        "question": "The Caatinga is a unique biome found in northeastern Brazil.",
+        "answer": true,
+        "category": "Natural Vegetation and Wildlife"
+    },
+    {
+        "question": "Brazil has a higher life expectancy than India.",
+        "answer": true,
+        "category": "Population"
+    },
+    {
+        "question": "Brazil is a major producer of iron ore.",
+        "answer": true,
+        "category": "Economy and Occupations"
+    },
+    {
+        "question": "Gated communities are a common feature of urban settlements in Brazil.",
+        "answer": true,
+        "category": "Human Settlements"
+    },
+    {
+        "question": "Ecotourism is a growing sector in Brazil, particularly in the Amazon and Pantanal.",
+        "answer": true,
+        "category": "Tourism, Transport and Communication"
+    },
+    {
+        "question": "The methodology of geographical fieldwork often involves mapping and spatial analysis.",
+        "answer": true,
+        "category": "Field Visit"
+    },
+    {
+        "question": "India lies entirely in the Northern Hemisphere.",
+        "answer": true,
+        "category": "Location and Extent"
+    },
+    {
+        "question": "The Thar Desert is located in the eastern part of India.",
+        "answer": false,
+        "category": "Physiography and Drainage"
+    },
+    {
+        "question": "Tropical cyclones frequently affect India's coastal regions.",
+        "answer": true,
+        "category": "Climate"
+    },
+    {
+        "question": "The Gir Forest National Park in India is known for its one-horned rhinoceroses.",
+        "answer": false,
+        "category": "Natural Vegetation and Wildlife"
+    },
+    {
+        "question": "India's sex ratio is skewed towards females.",
+        "answer": false,
+        "category": "Population"
+    },
+    {
+        "question": "The concept of 'smart villages' is gaining traction in India for rural development.",
+        "answer": true,
+        "category": "Human Settlements"
+    },
+    {
+        "question": "The textile industry is one of the oldest and largest industries in India.",
+        "answer": true,
+        "category": "Economy and Occupations"
+    },
+    {
+        "question": "The Golden Quadrilateral is a network of highways connecting major industrial, agricultural and cultural centres of India.",
+        "answer": true,
+        "category": "Tourism, Transport and Communication"
+    },
+    {
+        "question": "Brazil is the largest country in South America.",
+        "answer": true,
+        "category": "Location and Extent"
+    },
+    {
+        "question": "The Iguazu Falls are located on the border of Brazil and Argentina.",
+        "answer": true,
+        "category": "Physiography and Drainage"
+    },
+    {
+        "question": "The Amazon basin experiences a dry climate with minimal rainfall.",
+        "answer": false,
+        "category": "Climate"
+    },
+    {
+        "question": "The Cerrado is a vast tropical savanna ecoregion of Brazil.",
+        "answer": true,
+        "category": "Natural Vegetation and Wildlife"
+    },
+    {
+        "question": "Brazil has a significant indigenous population.",
+        "answer": true,
+        "category": "Population"
+    },
+    {
+        "question": "Brazil is a leading global producer of soybeans.",
+        "answer": true,
+        "category": "Economy and Occupations"
+    },
+    {
+        "question": "Brasília was planned and developed as Brazil's capital city.",
+        "answer": true,
+        "category": "Human Settlements"
+    },
+    {
+        "question": "The Trans-Amazonian Highway is a major transportation route in Brazil.",
+        "answer": true,
+        "category": "Tourism, Transport and Communication"
+    },
+    {
+        "question": "Remote sensing is a technique used in geographical fieldwork.",
+        "answer": true,
+        "category": "Field Visit"
+    },
+    {
+        "question": "The Tropic of Cancer passes through the middle of India.",
+        "answer": true,
+        "category": "Location and Extent"
+    },
+    {
+        "question": "The Eastern Coastal Plains of India are wider than the Western Coastal Plains.",
+        "answer": true,
+        "category": "Physiography and Drainage"
+    },
+    {
+        "question": "The winter season in India is characterized by high temperatures and heavy rainfall.",
+        "answer": false,
+        "category": "Climate"
+    },
+    {
+        "question": "The Sundarbans are known for their coniferous forests.",
+        "answer": false,
+        "category": "Natural Vegetation and Wildlife"
+    },
+    {
+        "question": "India's population is evenly distributed across all states.",
+        "answer": false,
+        "category": "Population"
+    },
+    {
+        "question": "Metropolitan cities in India are experiencing rapid population growth.",
+        "answer": true,
+        "category": "Human Settlements"
+    },
+    {
+        "question": "The automotive industry is a significant contributor to India's manufacturing sector.",
+        "answer": true,
+        "category": "Economy and Occupations"
+    },
+    {
+        "question": "India has a well-developed telecommunication network.",
+        "answer": true,
+        "category": "Tourism, Transport and Communication"
+    },
+    {
+        "question": "Brazil is bordered by the Atlantic Ocean to the east.",
+        "answer": true,
+        "category": "Location and Extent"
+    },
+    {
+        "question": "The Pantanal is a mountainous region in Brazil.",
+        "answer": false,
+        "category": "Physiography and Drainage"
+    },
+    {
+        "question": "Southern Brazil experiences a temperate climate.",
+        "answer": true,
+        "category": "Climate"
+    },
+    {
+        "question": "The Atlantic Forest is a highly biodiverse biome along Brazil's Atlantic coast.",
+        "answer": true,
+        "category": "Natural Vegetation and Wildlife"
+    },
+    {
+        "question": "Brazil has a higher percentage of its population living in rural areas compared to urban areas.",
+        "answer": false,
+        "category": "Population"
+    },
+    {
+        "question": "Brazil is a major exporter of beef.",
+        "answer": true,
+        "category": "Economy and Occupations"
+    },
+    {
+        "question": "The favelas in Brazil are typically well-planned and organized settlements.",
+        "answer": false,
+        "category": "Human Settlements"
+    },
+    {
+        "question": "Brazil has invested heavily in renewable energy sources like hydropower.",
+        "answer": true,
+        "category": "Tourism, Transport and Communication"
+    },
+    {
+        "question": "The use of GIS (Geographic Information Systems) is a modern methodology in geographical fieldwork.",
+        "answer": true,
+        "category": "Field Visit"
+    },
+    {
+        "question": "India's southernmost point is Indira Point, located in the Andaman and Nicobar Islands.",
+        "answer": true,
+        "category": "Location and Extent"
+    },
+    {
+        "question": "The Peninsular Plateau is the oldest and most stable landmass of India.",
+        "answer": true,
+        "category": "Physiography and Drainage"
+    },
+    {
+        "question": "The hot weather season in India is also known as the pre-monsoon season.",
+        "answer": true,
+        "category": "Climate"
+    },
+    {
+        "question": "Deciduous forests are the most widespread type of forest in India.",
+        "answer": true,
+        "category": "Natural Vegetation and Wildlife"
+    },
+    {
+        "question": "India's demographic dividend refers to the increasing proportion of its working-age population.",
+        "answer": true,
+        "category": "Population"
+    },
+    {
+        "question": "Satellite towns are developed near metropolitan cities to decongest them.",
+        "answer": true,
+        "category": "Human Settlements"
+    },
+    {
+        "question": "The Make in India initiative aims to boost the manufacturing sector in India.",
+        "answer": true,
+        "category": "Economy and Occupations"
+    },
+    {
+        "question": "India has a robust public transport system, including buses and trains.",
+        "answer": true,
+        "category": "Tourism, Transport and Communication"
+    },
+    {
+        "question": "Brazil is the fifth-largest country in the world by area.",
+        "answer": true,
+        "category": "Location and Extent"
+    },
+    {
+        "question": "The Amazon River flows from east to west across Brazil.",
+        "answer": false,
+        "category": "Physiography and Drainage"
+    },
+    {
+        "question": "The northeast region of Brazil is known for its semi-arid climate.",
+        "answer": true,
+        "category": "Climate"
+    },
+    {
+        "question": "The Mata Atlântica (Atlantic Forest) is a highly endangered biome in Brazil.",
+        "answer": true,
+        "category": "Natural Vegetation and Wildlife"
+    },
+    {
+        "question": "Brazil has a diverse ethnic composition, including indigenous, European, and African descendants.",
+        "answer": true,
+        "category": "Population"
+    },
+    {
+        "question": "Brazil is a major producer of ethanol from sugarcane.",
+        "answer": true,
+        "category": "Economy and Occupations"
+    },
+    {
+        "question": "The concept of 'planned cities' is rare in Brazil.",
+        "answer": false,
+        "category": "Human Settlements"
+    },
+    {
+        "question": "Brazil has a well-developed air transport network.",
+        "answer": true,
+        "category": "Tourism, Transport and Communication"
+    },
+    {
+        "question": "Fieldwork involves direct observation and data collection in the study area.",
+        "answer": true,
+        "category": "Field Visit"
+    },
+    {
+        "question": "India shares land borders with seven countries.",
+        "answer": true,
+        "category": "Location and Extent"
+    },
+    {
+        "question": "The Great Indian Desert is also known as the Thar Desert.",
+        "answer": true,
+        "category": "Physiography and Drainage"
+    },
+    {
+        "question": "The retreating monsoon season in India is also known as the post-monsoon season.",
+        "answer": true,
+        "category": "Climate"
+    },
+    {
+        "question": "The Western Ghats are a biodiversity hotspot in India.",
+        "answer": true,
+        "category": "Natural Vegetation and Wildlife"
+    },
+    {
+        "question": "India's population density is among the highest in the world.",
+        "answer": true,
+        "category": "Population"
+    },
+    {
+        "question": "Urban sprawl is a common phenomenon in Indian cities.",
+        "answer": true,
+        "category": "Human Settlements"
+    },
+    {
+        "question": "The IT and software services sector is a major employer in India.",
+        "answer": true,
+        "category": "Economy and Occupations"
+    },
+    {
+        "question": "India has a vast network of inland waterways.",
+        "answer": true,
+        "category": "Tourism, Transport and Communication"
+    },
+    {
+        "question": "Brazil is the only Portuguese-speaking country in South America.",
+        "answer": true,
+        "category": "Location and Extent"
+    },
+    {
+        "question": "The Pantanal is a vast wetland known for its unique wildlife.",
+        "answer": true,
+        "category": "Physiography and Drainage"
+    },
+    {
+        "question": "Brazil experiences a wide range of climatic conditions due to its large size.",
+        "answer": true,
+        "category": "Climate"
+    },
+    {
+        "question": "The Amazon Rainforest is home to a significant portion of the world's biodiversity.",
+        "answer": true,
+        "category": "Natural Vegetation and Wildlife"
+    },
+    {
+        "question": "Brazil has a relatively high urbanization rate.",
+        "answer": true,
+        "category": "Population"
+    },
+    {
+        "question": "The agricultural sector is a significant part of Brazil's economy.",
+        "answer": true,
+        "category": "Economy and Occupations"
+    },
+    {
+        "question": "Informal settlements are a challenge in many Brazilian cities.",
+        "answer": true,
+        "category": "Human Settlements"
+    },
+    {
+        "question": "Brazil has a well-developed road network.",
+        "answer": true,
+        "category": "Tourism, Transport and Communication"
+    },
+    {
+        "question": "Geographical fieldwork often involves the use of maps and satellite imagery for analysis.",
+        "answer": true,
+        "category": "Field Visit"
+    },
+    {
+        "question": "India is located in the continent of Asia.",
+        "answer": true,
+        "category": "Location and Extent"
+    },
+    {
+        "question": "The Indo-Gangetic Plain is a fertile region formed by the deposition of sediments from rivers.",
+        "answer": true,
+        "category": "Physiography and Drainage"
+    },
+    {
+        "question": "The hot dry winds known as 'Loo' are common in northern India during summer.",
+        "answer": true,
+        "category": "Climate"
+    },
+    {
+        "question": "The Rann of Kutch in India is known for its unique desert ecosystem.",
+        "answer": true,
+        "category": "Natural Vegetation and Wildlife"
+    },
+    {
+        "question": "India's rural population is larger than its urban population.",
+        "answer": true,
+        "category": "Population"
+    },
+    {
+        "question": "The Pradhan Mantri Awas Yojana is a government scheme for housing in India.",
+        "answer": true,
+        "category": "Human Settlements"
+    },
+    {
+        "question": "The pharmaceutical industry is a significant and growing sector in India.",
+        "answer": true,
+        "category": "Economy and Occupations"
+    },
+    {
+        "question": "India has a large domestic tourism market.",
+        "answer": true,
+        "category": "Tourism, Transport and Communication"
+    },
+    {
+        "question": "Brazil is bordered by ten other South American countries.",
+        "answer": true,
+        "category": "Location and Extent"
+    },
+    {
+        "question": "The Guiana Highlands are located in the northern part of Brazil.",
+        "answer": true,
+        "category": "Physiography and Drainage"
+    },
+    {
+        "question": "The southern regions of Brazil experience a subtropical climate.",
+        "answer": true,
+        "category": "Climate"
+    },
+    {
+        "question": "The Amazon Rainforest is facing threats from deforestation and agricultural expansion.",
+        "answer": true,
+        "category": "Natural Vegetation and Wildlife"
+    },
+    {
+        "question": "Brazil has a high birth rate and a low death rate.",
+        "answer": true,
+        "category": "Population"
+    },
+    {
+        "question": "The industrial sector in Brazil is diverse, including automotive, aerospace, and mining.",
+        "answer": true,
+        "category": "Economy and Occupations"
+    },
+    {
+        "question": "Urban planning in Brazil often faces challenges due to rapid urbanization.",
+        "answer": true,
+        "category": "Human Settlements"
+    },
+    {
+        "question": "Brazil has a well-developed port infrastructure for international trade.",
+        "answer": true,
+        "category": "Tourism, Transport and Communication"
+    },
+    {
+        "question": "Ethical considerations are important in geographical fieldwork, especially when dealing with local communities.",
+        "answer": true,
+        "category": "Field Visit"
+    },
+    {
+        "question": "The Tropic of Capricorn passes through India.",
+        "answer": false,
+        "category": "Location and Extent"
+    },
+    {
+        "question": "The Western Ghats are older than the Himalayas.",
+        "answer": true,
+        "category": "Physiography and Drainage"
+    },
+    {
+        "question": "The northeast monsoon brings rainfall to the southeastern coast of India.",
+        "answer": true,
+        "category": "Climate"
+    },
+    {
+        "question": "The national animal of India is the tiger.",
+        "answer": true,
+        "category": "Natural Vegetation and Wildlife"
+    },
+    {
+        "question": "India has a higher population density than Brazil.",
+        "answer": true,
+        "category": "Population"
+    },
+    {
+        "question": "The development of satellite cities is a strategy to manage urban growth in India.",
+        "answer": true,
+        "category": "Human Settlements"
+    },
+    {
+        "question": "The agricultural sector is the largest employer in India.",
+        "answer": true,
+        "category": "Economy and Occupations"
+    },
+    {
+        "question": "India has a growing aviation sector.",
+        "answer": true,
+        "category": "Tourism, Transport and Communication"
+    },
+    {
+        "question": "Brazil is the largest country in South America by both area and population.",
+        "answer": true,
+        "category": "Location and Extent"
+    },
+    {
+        "question": "The Pantanal is a major river system in Brazil.",
+        "answer": false,
+        "category": "Physiography and Drainage"
+    },
+    {
+        "question": "The Amazon basin experiences a tropical rainforest climate.",
+        "answer": true,
+        "category": "Climate"
+    },
+    {
+        "question": "The national tree of Brazil is the Brazilwood.",
+        "answer": true,
+        "category": "Natural Vegetation and Wildlife"
+    },
+    {
+        "question": "Brazil has a higher life expectancy than India.",
+        "answer": true,
+        "category": "Population"
+    },
+    {
+        "question": "Brazil is a major exporter of agricultural products.",
+        "answer": true,
+        "category": "Economy and Occupations"
+    },
+    {
+        "question": "The favelas are informal settlements that often lack basic infrastructure.",
+        "answer": true,
+        "category": "Human Settlements"
+    },
+    {
+        "question": "Brazil has a well-developed telecommunications infrastructure.",
+        "answer": true,
+        "category": "Tourism, Transport and Communication"
+    },
+    {
+        "question": "Participatory rural appraisal (PRA) is a common methodology in geographical fieldwork for community engagement.",
+        "answer": true,
+        "category": "Field Visit"
+    },
+    {
+        "question": "India's latitudinal extent is approximately 30 degrees.",
+        "answer": true,
+        "category": "Location and Extent"
+    },
+    {
+        "question": "The Himalayas are young fold mountains.",
+        "answer": true,
+        "category": "Physiography and Drainage"
+    },
+    {
+        "question": "The hot weather season in India is characterized by low humidity.",
+        "answer": true,
+        "category": "Climate"
+    },
+    {
+        "question": "The national bird of India is the peacock.",
+        "answer": true,
+        "category": "Natural Vegetation and Wildlife"
+    },
+    {
+        "question": "India's population is projected to surpass China's population by 2027.",
+        "answer": true,
+        "category": "Population"
+    },
+    {
+        "question": "The concept of 'census towns' in India refers to rural areas with urban characteristics.",
+        "answer": true,
+        "category": "Human Settlements"
+    },
+    {
+        "question": "The automotive industry is a key manufacturing sector in India.",
+        "answer": true,
+        "category": "Economy and Occupations"
+    },
+    {
+        "question": "India has a significant number of UNESCO World Heritage Sites that attract tourists.",
+        "answer": true,
+        "category": "Tourism, Transport and Communication"
+    },
+    {
+        "question": "Brazil is located in both the Northern and Southern Hemispheres.",
+        "answer": true,
+        "category": "Location and Extent"
+    },
+    {
+        "question": "The Pantanal is a major mountain range in Brazil.",
+        "answer": false,
+        "category": "Physiography and Drainage"
+    },
+    {
+        "question": "The Amazon basin experiences a distinct dry season with very little rainfall.",
+        "answer": false,
+        "category": "Climate"
+    },
+    {
+        "question": "The Caatinga biome in Brazil is characterized by dense rainforest.",
+        "answer": false,
+        "category": "Natural Vegetation and Wildlife"
+    },
+    {
+        "question": "Brazil has a relatively high proportion of its population aged 65 and above.",
+        "answer": false,
+        "category": "Population"
+    },
+    {
+        "question": "Brazil is a major producer of crude oil.",
+        "answer": true,
+        "category": "Economy and Occupations"
+    },
+    {
+        "question": "The favelas are typically well-integrated into the formal urban fabric of Brazilian cities.",
+        "answer": false,
+        "category": "Human Settlements"
+    },
+    {
+        "question": "Brazil has a well-developed railway network for cargo transport.",
+        "answer": true,
+        "category": "Tourism, Transport and Communication"
+    },
+    {
+        "question": "The importance of geographical fieldwork includes understanding human-environment interactions.",
+        "answer": true,
+        "category": "Field Visit"
+    },
+    {
+        "question": "India's longitudinal extent is approximately 30 degrees.",
+        "answer": true,
+        "category": "Location and Extent"
+    },
+    {
+        "question": "The Eastern Ghats are a continuous mountain range along India's eastern coast.",
+        "answer": false,
+        "category": "Physiography and Drainage"
+    },
+    {
+        "question": "The monsoon in India is influenced by the El Niño phenomenon.",
+        "answer": true,
+        "category": "Climate"
+    },
+    {
+        "question": "The national tree of India is the Banyan tree.",
+        "answer": true,
+        "category": "Natural Vegetation and Wildlife"
+    },
+    {
+        "question": "India's literacy rate has significantly improved in recent decades.",
+        "answer": true,
+        "category": "Population"
+    },
+    {
+        "question": "The concept of 'urban agglomeration' refers to a continuous urban spread.",
+        "answer": true,
+        "category": "Human Settlements"
+    },
+    {
+        "question": "The service sector is the largest contributor to India's GDP.",
+        "answer": true,
+        "category": "Economy and Occupations"
+    },
+    {
+        "question": "India has a growing cruise tourism industry.",
+        "answer": true,
+        "category": "Tourism, Transport and Communication"
+    },
+    {
+        "question": "Brazil is the largest country in South America.",
+        "answer": true,
+        "category": "Location and Extent"
+    },
+    {
+        "question": "The Brazilian Highlands are characterized by flat, low-lying terrain.",
+        "answer": false,
+        "category": "Physiography and Drainage"
+    },
+    {
+        "question": "Southern Brazil experiences a tropical climate year-round.",
+        "answer": false,
+        "category": "Climate"
+    },
+    {
+        "question": "The Atlantic Forest biome is known for its high levels of endemism.",
+        "answer": true,
+        "category": "Natural Vegetation and Wildlife"
+    },
+    {
+        "question": "Brazil has a relatively high proportion of its population living in urban areas.",
+        "answer": true,
+        "category": "Population"
+    },
+    {
+        "question": "Brazil is a major exporter of iron ore.",
+        "answer": true,
+        "category": "Economy and Occupations"
+    },
+    {
+        "question": "The concept of 'vertical urbanization' is common in large Brazilian cities.",
+        "answer": true,
+        "category": "Human Settlements"
+    },
+    {
+        "question": "Brazil has invested in developing its renewable energy sector.",
+        "answer": true,
+        "category": "Tourism, Transport and Communication"
+    },
+    {
+        "question": "Fieldwork is essential for collecting primary data in geographical studies.",
+        "answer": true,
+        "category": "Field Visit"
+    },
+    {
+        "question": "India's mainland extends between 8°4'N and 37°6'N latitudes.",
+        "answer": true,
+        "category": "Location and Extent"
+    },
+    {
+        "question": "The Northern Plains of India are formed by the interplay of the Indus, Ganga, and Brahmaputra river systems.",
+        "answer": true,
+        "category": "Physiography and Drainage"
+    },
+    {
+        "question": "The cold weather season in India is characterized by clear skies and low temperatures.",
+        "answer": true,
+        "category": "Climate"
+    },
+    {
+        "question": "The national flower of India is the lotus.",
+        "answer": true,
+        "category": "Natural Vegetation and Wildlife"
+    },
+    {
+        "question": "India's population is characterized by a high dependency ratio.",
+        "answer": false,
+        "category": "Population"
+    },
+    {
+        "question": "The concept of 'peri-urban' areas refers to the transitional zone between urban and rural settlements.",
+        "answer": true,
+        "category": "Human Settlements"
+    },
+    {
+        "question": "The IT sector is a major contributor to India's exports.",
+        "answer": true,
+        "category": "Economy and Occupations"
+    },
+    {
+        "question": "India has a well-developed network of national waterways for transport.",
+        "answer": true,
+        "category": "Tourism, Transport and Communication"
+    },
+    {
+        "question": "Brazil is located in the continent of South America.",
+        "answer": true,
+        "category": "Location and Extent"
+    },
+    {
+        "question": "The Amazon River basin is a vast, low-lying area.",
+        "answer": true,
+        "category": "Physiography and Drainage"
+    },
+    {
+        "question": "The equatorial climate zone in Brazil experiences high temperatures and rainfall throughout the year.",
+        "answer": true,
+        "category": "Climate"
+    },
+    {
+        "question": "The Pantanal is known for its rich aquatic wildlife.",
+        "answer": true,
+        "category": "Natural Vegetation and Wildlife"
+    },
+    {
+        "question": "Brazil has a relatively high proportion of its population living in coastal areas.",
+        "answer": true,
+        "category": "Population"
+    },
+    {
+        "question": "The service sector is the largest contributor to Brazil's GDP.",
+        "answer": true,
+        "category": "Economy and Occupations"
+    },
+    {
+        "question": "The process of urbanization in Brazil has led to the growth of megacities.",
+        "answer": true,
+        "category": "Human Settlements"
+    },
+    {
+        "question": "Brazil has a well-developed air transport infrastructure.",
+        "answer": true,
+        "category": "Tourism, Transport and Communication"
+    },
+    {
+        "question": "Questionnaires and interviews are common methods for data collection in geographical fieldwork.",
+        "answer": true,
+        "category": "Field Visit"
+    },
+    {
+        "question": "India's longitudinal extent is between 68°7'E and 97°25'E.",
+        "answer": true,
+        "category": "Location and Extent"
+    },
+    {
+        "question": "The Coastal Plains of India are narrow in the west and broad in the east.",
+        "answer": true,
+        "category": "Physiography and Drainage"
+    },
+    {
+        "question": "The summer monsoon in India brings heavy rainfall to most parts of the country.",
+        "answer": true,
+        "category": "Climate"
+    },
+    {
+        "question": "The national animal of Brazil is the jaguar.",
+        "answer": true,
+        "category": "Natural Vegetation and Wildlife"
+    },
+    {
+        "question": "Brazil's population is concentrated along its coastal regions.",
+        "answer": true,
+        "category": "Population"
+    },
+    {
+        "question": "The industrial sector is a significant part of Brazil's economy.",
+        "answer": true,
+        "category": "Economy and Occupations"
+    },
+    {
+        "question": "The growth of favelas is a challenge for urban planning in Brazil.",
+        "answer": true,
+        "category": "Human Settlements"
+    },
+    {
+        "question": "Brazil has a well-developed road network for both passenger and cargo transport.",
+        "answer": true,
+        "category": "Tourism, Transport and Communication"
+    },
+    {
+        "question": "Brazil is the largest country in South America.",
+        "answer": true,
+        "category": "Location and Extent"
+    },
+    {
+        "question": "The Brazilian Highlands are characterized by plateaus and mountain ranges.",
+        "answer": true,
+        "category": "Physiography and Drainage"
+    },
+    {
+        "question": "The semi-arid climate in Brazil is found primarily in the northeast region.",
+        "answer": true,
+        "category": "Climate"
+    },
+    {
+        "question": "The Cerrado biome is known for its unique savanna vegetation.",
+        "answer": true,
+        "category": "Natural Vegetation and Wildlife"
+    },
+    {
+        "question": "Brazil has a relatively young population, with a large proportion of people under 30.",
+        "answer": true,
+        "category": "Population"
+    },
+    {
+        "question": "Brazil is a major producer of agricultural commodities like soybeans and coffee.",
+        "answer": true,
+        "category": "Economy and Occupations"
+    },
+    {
+        "question": "The process of urbanization in Brazil has led to significant rural-to-urban migration.",
+        "answer": true,
+        "category": "Human Settlements"
+    },
+    {
+        "question": "Brazil has a well-developed port infrastructure for international trade.",
+        "answer": true,
+        "category": "Tourism, Transport and Communication"
+    },
+    {
+        "question": "Secondary data sources for geographical fieldwork include census reports and government publications.",
+        "answer": true,
+        "category": "Field Visit"
+    },
+    {
+        "question": "India's total area is approximately 3.28 million square kilometers.",
+        "answer": true,
+        "category": "Location and Extent"
+    },
+    {
+        "question": "The Himalayas act as a climatic barrier, preventing cold winds from Central Asia from entering India.",
+        "answer": true,
+        "category": "Physiography and Drainage"
+    },
+    {
+        "question": "The pre-monsoon showers in Kerala are known as Mango Showers.",
+        "answer": true,
+        "category": "Climate"
+    },
+    {
+        "question": "The national aquatic animal of India is the Ganges River Dolphin.",
+        "answer": true,
+        "category": "Natural Vegetation and Wildlife"
+    },
+    {
+        "question": "India has a higher population density than China.",
+        "answer": false,
+        "category": "Population"
+    },
+    {
+        "question": "The concept of 'planned cities' is evident in India with cities like Chandigarh.",
+        "answer": true,
+        "category": "Human Settlements"
+    },
+    {
+        "question": "The tourism sector is a significant employer in India.",
+        "answer": true,
+        "category": "Economy and Occupations"
+    },
+    {
+        "question": "India has a well-developed postal and telegraph network.",
+        "answer": true,
+        "category": "Tourism, Transport and Communication"
+    },
+    {
+        "question": "Brazil's coastline stretches for over 7,400 kilometers.",
+        "answer": true,
+        "category": "Location and Extent"
+    },
+    {
+        "question": "The Pantanal is a vast, low-lying wetland in Brazil.",
+        "answer": true,
+        "category": "Physiography and Drainage"
+    },
+    {
+        "question": "The dry season in the Cerrado biome of Brazil is characterized by frequent wildfires.",
+        "answer": true,
+        "category": "Climate"
+    },
+    {
+        "question": "The Amazon Rainforest is often referred to as the 'lungs of the Earth'.",
+        "answer": true,
+        "category": "Natural Vegetation and Wildlife"
+    },
+    {
+        "question": "Brazil has a diverse population with significant contributions from African and European cultures.",
+        "answer": true,
+        "category": "Population"
+    },
+    {
+        "question": "The mining industry is a major economic activity in Brazil.",
+        "answer": true,
+        "category": "Economy and Occupations"
+    },
+    {
+        "question": "The process of gentrification is observed in some urban areas of Brazil.",
+        "answer": true,
+        "category": "Human Settlements"
+    },
+    {
+        "question": "Brazil has invested in improving its public transportation systems in major cities.",
+        "answer": true,
+        "category": "Tourism, Transport and Communication"
+    },
+    {
+        "question": "The importance of geographical fieldwork includes understanding regional disparities.",
+        "answer": true,
+        "category": "Field Visit"
+    },
+    {
+        "question": "India's standard meridian is 82°30'E longitude.",
+        "answer": true,
+        "category": "Location and Extent"
+    },
+    {
+        "question": "The Eastern Coastal Plains are characterized by fertile deltas formed by major rivers.",
+        "answer": true,
+        "category": "Physiography and Drainage"
+    },
+    {
+        "question": "The winter monsoon in India brings rainfall to the northwestern parts of the country.",
+        "answer": false,
+        "category": "Climate"
+    },
+    {
+        "question": "The national bird of Brazil is the Rufous-bellied Thrush.",
+        "answer": true,
+        "category": "Natural Vegetation and Wildlife"
+    },
+    {
+        "question": "Brazil's population growth rate has been declining in recent years.",
+        "answer": true,
+        "category": "Population"
+    },
+    {
+        "question": "The agricultural sector is a major employer in Brazil.",
+        "answer": true,
+        "category": "Economy and Occupations"
+    },
+    {
+        "question": "The concept of 'gated communities' is prevalent in urban areas of Brazil.",
+        "answer": true,
+        "category": "Human Settlements"
+    },
+    {
+        "question": "Brazil has a well-developed digital communication infrastructure.",
+        "answer": true,
+        "category": "Tourism, Transport and Communication"
+    },
+    {
+        "question": "Brazil is the largest country in South America.",
+        "answer": true,
+        "category": "Location and Extent"
+    },
+    {
+        "question": "The Amazon River is the second-longest river in the world.",
+        "answer": true,
+        "category": "Physiography and Drainage"
+    },
+    {
+        "question": "The climate of Brazil is entirely tropical.",
+        "answer": false,
+        "category": "Climate"
+    },
+    {
+        "question": "The Atlantic Forest is a highly fragmented biome in Brazil.",
+        "answer": true,
+        "category": "Natural Vegetation and Wildlife"
+    },
+    {
+        "question": "Brazil has a higher urbanization rate than India.",
+        "answer": true,
+        "category": "Population"
+    },
+    {
+        "question": "The service sector is the dominant sector of Brazil's economy.",
+        "answer": true,
+        "category": "Economy and Occupations"
+    },
+    {
+        "question": "The growth of favelas is a result of rapid and unplanned urbanization.",
+        "answer": true,
+        "category": "Human Settlements"
+    },
+    {
+        "question": "Brazil has a significant potential for ecotourism.",
+        "answer": true,
+        "category": "Tourism, Transport and Communication"
+    },
+    {
+        "question": "Fieldwork reports typically include data analysis, interpretations, and conclusions.",
+        "answer": true,
+        "category": "Field Visit"
+    },
+    {
+        "question": "India's mainland extends between 68°7'E and 97°25'E longitudes.",
+        "answer": true,
+        "category": "Location and Extent"
+    },
+    {
+        "question": "The Peninsular Plateau is characterized by ancient crystalline, igneous, and metamorphic rocks.",
+        "answer": true,
+        "category": "Physiography and Drainage"
+    },
+    {
+        "question": "The monsoon in India is characterized by seasonal reversal of winds.",
+        "answer": true,
+        "category": "Climate"
+    },
+    {
+        "question": "The national tree of Brazil is the Brazilwood.",
+        "answer": true,
+        "category": "Natural Vegetation and Wildlife"
+    },
+    {
+        "question": "India's population is characterized by a high proportion of young people.",
+        "answer": true,
+        "category": "Population"
+    },
+    {
+        "question": "The development of 'new towns' is a strategy to manage urban growth in India.",
+        "answer": true,
+        "category": "Human Settlements"
+    },
+    {
+        "question": "The IT and BPO sectors are major contributors to India's economy.",
+        "answer": true,
+        "category": "Economy and Occupations"
+    },
+    {
+        "question": "India has a well-developed road network, including national and state highways.",
+        "answer": true,
+        "category": "Tourism, Transport and Communication"
+    },
+    {
+        "question": "Brazil is located in the western hemisphere.",
+        "answer": true,
+        "category": "Location and Extent"
+    },
+    {
+        "question": "The Amazon River is the longest river in South America.",
+        "answer": true,
+        "category": "Physiography and Drainage"
+    },
+    {
+        "question": "The climate of Brazil is influenced by its latitudinal extent.",
+        "answer": true,
+        "category": "Climate"
+    },
+    {
+        "question": "The Pantanal is a major wetland ecosystem in Brazil.",
+        "answer": true,
+        "category": "Natural Vegetation and Wildlife"
+    },
+    {
+        "question": "Brazil has a diverse population with a significant number of people of mixed ancestry.",
+        "answer": true,
+        "category": "Population"
+    },
+    {
+        "question": "Brazil is a major producer of sugarcane.",
+        "answer": true,
+        "category": "Economy and Occupations"
+    },
+    {
+        "question": "The process of urbanization in Brazil has led to the growth of informal settlements.",
+        "answer": true,
+        "category": "Human Settlements"
+    },
+    {
+        "question": "Brazil has a well-developed public transport system in its major cities.",
+        "answer": true,
+        "category": "Tourism, Transport and Communication"
+    },
+    {
+        "question": "Geographical fieldwork helps in understanding the spatial distribution of phenomena.",
+        "answer": true,
+        "category": "Field Visit"
+    },
+    {
+        "question": "India's land frontier is about 15,200 km long.",
+        "answer": true,
+        "category": "Location and Extent"
+    },
+    {
+        "question": "The Western Ghats are a continuous chain of mountains.",
+        "answer": false,
+        "category": "Physiography and Drainage"
+    },
+    {
+        "question": "The hot weather season in India is characterized by rising temperatures and falling air pressure.",
+        "answer": true,
+        "category": "Climate"
+    },
+    {
+        "question": "The national flower of Brazil is the Ipê.",
+        "answer": true,
+        "category": "Natural Vegetation and Wildlife"
+    },
+    {
+        "question": "India's population is characterized by a high rural population.",
+        "answer": true,
+        "category": "Population"
+    },
+    {
+        "question": "The concept of 'slums' is a major challenge in urban settlements in India.",
+        "answer": true,
+        "category": "Human Settlements"
+    },
+    {
+        "question": "The agricultural sector is the backbone of India's economy.",
+        "answer": true,
+        "category": "Economy and Occupations"
+    },
+    {
+        "question": "India has a well-developed communication system, including mobile and internet services.",
+        "answer": true,
+        "category": "Tourism, Transport and Communication"
+    },
+    {
+        "question": "Brazil is bordered by the Pacific Ocean to the west.",
+        "answer": false,
+        "category": "Location and Extent"
+    },
+    {
+        "question": "The Brazilian Highlands are a major source of minerals.",
+        "answer": true,
+        "category": "Physiography and Drainage"
+    },
+    {
+        "question": "The climate of the Amazon basin is characterized by high humidity and consistent rainfall.",
+        "answer": true,
+        "category": "Climate"
+    },
+    {
+        "question": "The Cerrado biome is known for its unique flora and fauna.",
+        "answer": true,
+        "category": "Natural Vegetation and Wildlife"
+    },
+    {
+        "question": "Brazil has a relatively high life expectancy.",
+        "answer": true,
+        "category": "Population"
+    },
+    {
+        "question": "Brazil is a major exporter of coffee.",
+        "answer": true,
+        "category": "Economy and Occupations"
+    },
+    {
+        "question": "The process of urbanization in Brazil has led to the growth of megacities.",
+        "answer": true,
+        "category": "Human Settlements"
+    },
+    {
+        "question": "Brazil has a well-developed air transport network, connecting major cities.",
+        "answer": true,
+        "category": "Tourism, Transport and Communication"
+    },
+    {
+        "question": "Geographical fieldwork often involves the use of statistical analysis to interpret data.",
+        "answer": true,
+        "category": "Field Visit"
+    },
+    {
+        "question": "India's coastline is approximately 7,516.6 km long.",
+        "answer": true,
+        "category": "Location and Extent"
+    },
+    {
+        "question": "The Thar Desert is a hot desert located in the northwestern part of India.",
+        "answer": true,
+        "category": "Physiography and Drainage"
+    },
+    {
+        "question": "The retreating monsoon season in India is associated with clear skies and rising temperatures.",
+        "answer": false,
+        "category": "Climate"
+    },
+    {
+        "question": "The national tree of India is the Banyan tree.",
+        "answer": true,
+        "category": "Natural Vegetation and Wildlife"
+    },
+    {
+        "question": "India's population is characterized by a high proportion of its workforce in the primary sector.",
+        "answer": true,
+        "category": "Population"
+    },
+    {
+        "question": "The concept of 'urban renewal' aims to revitalize declining urban areas.",
+        "answer": true,
+        "category": "Human Settlements"
+    },
+    {
+        "question": "The manufacturing sector is a significant contributor to India's GDP.",
+        "answer": true,
+        "category": "Economy and Occupations"
+    },
+    {
+        "question": "India has a well-developed port infrastructure along its coastline.",
+        "answer": true,
+        "category": "Tourism, Transport and Communication"
+    },
+    {
+        "question": "Brazil is the largest country in South America.",
+        "answer": true,
+        "category": "Location and Extent"
+    },
+    {
+        "question": "The Amazon basin is characterized by a dense network of rivers.",
+        "answer": true,
+        "category": "Physiography and Drainage"
+    },
+    {
+        "question": "The climate of southern Brazil is predominantly tropical.",
+        "answer": false,
+        "category": "Climate"
+    },
+    {
+        "question": "The Pantanal is a major wetland known for its diverse birdlife.",
+        "answer": true,
+        "category": "Natural Vegetation and Wildlife"
+    },
+    {
+        "question": "Brazil has a relatively high life expectancy compared to other developing countries.",
+        "answer": true,
+        "category": "Population"
+    },
+    {
+        "question": "Brazil is a major producer of iron ore.",
+        "answer": true,
+        "category": "Economy and Occupations"
+    },
+    {
+        "question": "The process of urbanization in Brazil has led to the growth of favelas.",
+        "answer": true,
+        "category": "Human Settlements"
+    },
+    {
+        "question": "Brazil has a well-developed road network, including federal and state highways.",
+        "answer": true,
+        "category": "Tourism, Transport and Communication"
+    },
+    {
+        "question": "The methodology of geographical fieldwork includes sampling techniques for data collection.",
+        "answer": true,
+        "category": "Field Visit"
+    },
+    {
+        "question": "India's northernmost point is Indira Col.",
+        "answer": true,
+        "category": "Location and Extent"
+    },
+    {
+        "question": "The Himalayas are home to several major rivers like the Indus, Ganga, and Brahmaputra.",
+        "answer": true,
+        "category": "Physiography and Drainage"
+    },
+    {
+        "question": "The monsoon in India is crucial for its agricultural economy.",
+        "answer": true,
+        "category": "Climate"
+    },
+    {
+        "question": "The national animal of India is the tiger.",
+        "answer": true,
+        "category": "Natural Vegetation and Wildlife"
+    },
+    {
+        "question": "India's population is characterized by a high population density.",
+        "answer": true,
+        "category": "Population"
+    },
+    {
+        "question": "The concept of 'smart cities' aims to improve urban infrastructure and services in India.",
+        "answer": true,
+        "category": "Human Settlements"
+    },
+    {
+        "question": "The service sector is the largest contributor to India's GDP.",
+        "answer": true,
+        "category": "Economy and Occupations"
+    },
+    {
+        "question": "India has a well-developed telecommunication network, including mobile and internet services.",
+        "answer": true,
+        "category": "Tourism, Transport and Communication"
+    },
+    {
+        "question": "Brazil is bordered by all South American countries except Chile and Ecuador.",
+        "answer": true,
+        "category": "Location and Extent"
+    },
+    {
+        "question": "The Brazilian Highlands are characterized by a rugged terrain with many plateaus.",
+        "answer": true,
+        "category": "Physiography and Drainage"
+    },
+    {
+        "question": "The Amazon basin experiences a tropical rainforest climate with high temperatures and rainfall throughout the year.",
+        "answer": true,
+        "category": "Climate"
+    },
+    {
+        "question": "The Cerrado biome is a tropical savanna known for its unique biodiversity.",
+        "answer": true,
+        "category": "Natural Vegetation and Wildlife"
+    },
+    {
+        "question": "Brazil has a relatively young population structure.",
+        "answer": true,
+        "category": "Population"
+    },
+    {
+        "question": "Brazil is a major producer of agricultural commodities like soybeans and coffee.",
+        "answer": true,
+        "category": "Economy and Occupations"
+    },
+    {
+        "question": "The process of urbanization in Brazil has led to significant rural-to-urban migration.",
+        "answer": true,
+        "category": "Human Settlements"
+    },
+    {
+        "question": "Brazil has a well-developed air transport network, connecting major cities and regions.",
+        "answer": true,
+        "category": "Tourism, Transport and Communication"
+    },
+    {
+        "question": "The importance of geographical fieldwork includes understanding environmental changes.",
+        "answer": true,
+        "category": "Field Visit"
+    },
+    {
+        "question": "India's latitudinal extent influences its climate and vegetation.",
+        "answer": true,
+        "category": "Location and Extent"
+    },
+    {
+        "question": "The Deccan Plateau is a triangular landmass in peninsular India.",
+        "answer": true,
+        "category": "Physiography and Drainage"
+    },
+    {
+        "question": "The monsoon in India is characterized by distinct wet and dry seasons.",
+        "answer": true,
+        "category": "Climate"
+    },
+    {
+        "question": "The national bird of India is the peacock.",
+        "answer": true,
+        "category": "Natural Vegetation and Wildlife"
+    },
+    {
+        "question": "India's population is characterized by a high proportion of young people.",
+        "answer": true,
+        "category": "Population"
+    },
+    {
+        "question": "The concept of 'satellite towns' is used to manage urban growth in India.",
+        "answer": true,
+        "category": "Human Settlements"
+    },
+    {
+        "question": "The IT sector is a major contributor to India's economy.",
+        "answer": true,
+        "category": "Economy and Occupations"
+    },
+    {
+        "question": "India has a well-developed railway network, connecting major cities and regions.",
+        "answer": true,
+        "category": "Tourism, Transport and Communication"
+    },
+    {
+        "question": "Brazil is located in both the Northern and Southern Hemispheres.",
+        "answer": true,
+        "category": "Location and Extent"
+    },
+    {
+        "question": "The Amazon River is the largest river by discharge volume in the world.",
+        "answer": true,
+        "category": "Physiography and Drainage"
+    },
+    {
+        "question": "The climate of Brazil is diverse, ranging from tropical to temperate.",
+        "answer": true,
+        "category": "Climate"
+    },
+    {
+        "question": "The Atlantic Forest is a highly biodiverse biome along Brazil's Atlantic coast.",
+        "answer": true,
+        "category": "Natural Vegetation and Wildlife"
+    },
+    {
+        "question": "Brazil has a relatively high urbanization rate.",
+        "answer": true,
+        "category": "Population"
+    },
+    {
+        "question": "Brazil is a major producer of agricultural products, including coffee and soybeans.",
+        "answer": true,
+        "category": "Economy and Occupations"
+    },
+    {
+        "question": "The growth of favelas is a challenge for urban planning in Brazil.",
+        "answer": true,
+        "category": "Human Settlements"
+    },
+    {
+        "question": "Brazil has a well-developed port infrastructure for international trade.",
+        "answer": true,
+        "category": "Tourism, Transport and Communication"
+    },
+    {
+        "question": "Geographical fieldwork involves collecting data through observation, surveys, and interviews.",
+        "answer": true,
+        "category": "Field Visit"
+    },
+    {
+        "question": "India's longitudinal extent influences its time zones.",
+        "answer": true,
+        "category": "Location and Extent"
+    },
+    {
+        "question": "The Western Ghats are a biodiversity hotspot in India.",
+        "answer": true,
+        "category": "Physiography and Drainage"
+    },
+    {
+        "question": "The winter monsoon in India brings rainfall to the southeastern coast.",
+        "answer": true,
+        "category": "Climate"
+    },
+    {
+        "question": "The Sundarbans are known for their mangrove forests.",
+        "answer": true,
+        "category": "Natural Vegetation and Wildlife"
+    },
+    {
+        "question": "India's population density is among the highest in the world.",
+        "answer": true,
+        "category": "Population"
+    },
+    {
+        "question": "The concept of 'smart cities' aims to improve urban infrastructure and services in India.",
+        "answer": true,
+        "category": "Human Settlements"
+    },
+    {
+        "question": "The service sector is the largest contributor to India's GDP.",
+        "answer": true,
+        "category": "Economy and Occupations"
+    },
+    {
+        "question": "India has a well-developed telecommunication network, including mobile and internet services.",
+        "answer": true,
+        "category": "Tourism, Transport and Communication"
+    },
+    {
+        "question": "Brazil is bordered by ten other South American countries.",
+        "answer": true,
+        "category": "Location and Extent"
+    },
+    {
+        "question": "The Brazilian Highlands are characterized by plateaus and mountain ranges.",
+        "answer": true,
+        "category": "Physiography and Drainage"
+    },
+    {
+        "question": "The Amazon basin experiences a tropical rainforest climate with high temperatures and rainfall throughout the year.",
+        "answer": true,
+        "category": "Climate"
+    },
+    {
+        "question": "The Cerrado biome is a tropical savanna known for its unique biodiversity.",
+        "answer": true,
+        "category": "Natural Vegetation and Wildlife"
+    },
+    {
+        "question": "Brazil has a relatively young population structure.",
+        "answer": true,
+        "category": "Population"
+    },
+    {
+        "question": "Brazil is a major producer of agricultural commodities like soybeans and coffee.",
+        "answer": true,
+        "category": "Economy and Occupations"
+    },
+    {
+        "question": "The process of urbanization in Brazil has led to significant rural-to-urban migration.",
+        "answer": true,
+        "category": "Human Settlements"
+    },
+    {
+        "question": "Brazil has a well-developed air transport network, connecting major cities and regions.",
+        "answer": true,
+        "category": "Tourism, Transport and Communication"
+    }
+]
