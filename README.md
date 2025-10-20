@@ -2,6 +2,9 @@
 
 A simple and interactive geography quiz game built with Streamlit. Test your knowledge about various geographical facts and statements.
 
+# Geography Quiz Game: App link:
+https://trush-geogame.streamlit.app/
+
 ## Features
 
 - Multiple-choice true/false questions
